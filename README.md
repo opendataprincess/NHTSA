@@ -10,6 +10,6 @@ DUI, Not wearing a seatbelt, distracted driving, speeding, hitting a deer, fatig
 One claim of a state safety vehicle inspection program is to reduce automobile fatalities. According to a 2015 GAO Report, the inspection program in remaining states may not be doing that: http://www.gao.gov/assets/680/672131.pdf
 
 NJ discontinued safety inspection program 08/01/2010 |
-DC ended safety inspection 10/1/2009
+DC ended safety inspection program 10/1/2009
 
-Total fatalities is different than total crashes since there can be more than 1 person involved the crash
+Total fatalities in this dataset is different from total crashes since there can be more than 1 person involved in each crash.
