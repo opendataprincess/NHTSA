@@ -1,7 +1,7 @@
 # NHTSA
 This file was compilated from the following sources: *https://en.m.wikipedia.org/wiki/Vehicle_inspection_in_the_United_States#Jurisdictions_requiring_periodic_vehicle_safety_inspections
 http://www-nrd.nhtsa.dot.gov/Pubs/812219.pdf; National Center for Statistics and Analysis. (2015, November). 2014 Crash Data Key Findings. Washington, DC: National Highway Traffic Safety Administration
-http://www-nrd.nhtsa.dot.gov/Pubs/812218.pdf; NHTSA National Cetner for Statistics and Analysis. (2015, November). Report DOT HS812218
+http://www-nrd.nhtsa.dot.gov/Pubs/812218.pdf; NHTSA National Center for Statistics and Analysis. (2015, November). Report DOT HS812218
 www-fars.nhtsa.dot.gov
 http://www-nrd.nhtsa.dot.gov/departments/nrd-30/ncsa/STSI/USA%20WEB%20REPORT.HTM
 https://www.aaafoundation.org/sites/default/files/PrevalenceOfSelf-ReportedDrowsyDrivingReport.pdf
